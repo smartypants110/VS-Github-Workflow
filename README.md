@@ -2,7 +2,7 @@
 How to create repositories and update them from Visual Studio: <br />
 
 How to create a Github Repository: <br />
-Warning: You must have Git installed, download it here: https://git-scm.com/download/win <br />
+Warning: You must have Git installed, download it here (Windows): https://git-scm.com/download/win <br />
 
 1. Git > Create Git Repository <br />
 ![image](https://github.com/smartypants110/VS-Github-Workflow/assets/160177890/5e3014db-21e3-4bfa-b968-6fee83fce53e) <br />
